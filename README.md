@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif" width="50%" style="border-radius: 5px;" />
+<img src="https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif" width="80%" style="border-radius: 5px;" />
 <h1 align="center">Hi 👋, I'm Maxsudov Nodirjon</h1>
 <h3 align="center">A passionate backend developer from Uzbekistan</h3>
 
