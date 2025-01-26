@@ -22,7 +22,7 @@
 
 - 🤝 I’m looking for help with **Django Projects**
 
-- 👨‍💻 All of my projects are available at [My Git](https://github.com/theNodirjon)
+- 👨‍💻 All of my projects are available at [My Git](https://github.com/theNodirjon?tab=repositories)
 
 - 📝 I not regularly write articles
 
