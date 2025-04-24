@@ -40,10 +40,12 @@
 <p align="left">
   <a href="https://www.instagram.com/the_nodirjon" target="_blank">
     <img align="center" 
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_nodirjon" height="30" width="40" /></a>
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
+      alt="the_nodirjon" height="30" width="40" /></a>
   <a href="https://t.me/the_nodirjon" target="_blank">
     <img align="center" 
-      src="https://корпус-н.рф/ssl/u/79/b5e668a43a11eca4a0a8444f7c2944/-/telegram-logo-png-telegram-logo-png-img-504-504-free-transparent-telegram-900x520.jpg" alt="the_nodirjon" height="30" width="40" /></a>
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" 
+      alt="the_nodirjon" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
